@@ -1,0 +1,225 @@
+.calcContainer {
+    width: 750px;
+    height: 895px;
+    border: #000 3px solid;
+    border-radius: 20px;
+    background-image: linear-gradient(to top, rgba(20, 80, 80, 0.5), rgba(20, 80, 80, 0.3));
+}
+
+.containerHeader {
+    display: flex;
+    width: 750px;
+    height: 75px;
+    border-top-right-radius: 17px;
+    border-top-left-radius: 17px;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(to bottom, #ff0000 0%, #00ff00 50%, #0000ff 100%);
+    background-repeat: no-repeat;
+    background-position: top left, top right;
+}
+
+.header {
+    color: white;
+    height: 40px;
+    font-size: 35px;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 0px #000, -1px -1px 0px #000, 1px -1px 0px #000, -1px 1px 0px #000;
+}
+
+.inputContainer {
+    width: 752px;
+    height: 75px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
+.nowOperatingInput {
+    background-color: white;
+    align-self: right;
+    text-align: right;
+    font-size: 15px;
+    font-weight: bold;
+    border-top: #000 3px solid;
+    border-bottom: #000 2px solid;
+    border-left: #000 3px solid;
+    border-right: #000 3px solid;
+}
+
+.expressionInput {
+    background-color: rgb(245, 245, 245);
+    width: 750px;
+    height: 25px;
+    font-size: 20px;
+    font-weight: bolder;
+    text-align: right;
+    border-top: #000 3px solid;
+    border-bottom: #000 2px solid;
+    border-left: #000 0px solid;
+    border-right: #000 3px solid;
+}
+
+.input {
+    width: 750px;
+    height: 50px;
+    font-size: 50px;
+    font-weight: bolder;
+    text-align: right;
+    border-bottom: #000 3px solid;
+    border-left: #000 0px solid;
+    border-right: #000 3px solid;
+}
+
+.input::placeholder {
+    color: black;
+}
+
+.version {
+    color: rgb(50, 50, 50);
+    font-style: oblique;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    margin-right: auto;
+    margin-left: 20px;
+}
+
+.credits {
+    color: rgb(50, 50, 50);
+    margin-right: 10px;
+    margin-top: 5px;
+    font-weight: bolder;
+}
+
+.functionsContainer {
+    display: flex;
+    height: 600px;
+    margin-top: 10px;
+}
+
+.numbersContainer {
+    display: flex;
+    flex-wrap: wrap;
+    flex-basis: 550px;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    row-gap: 10px;
+    margin-top: 95px;
+}
+
+.operatorsContainer {
+    display: block;
+    align-items: center;
+    justify-content: center;
+    margin-top: 45px;
+}
+
+.button {
+    display: flex;
+    width: 135px;
+    height: 135px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    border: #000 3px solid;
+    border-radius: 10px;
+    font-size: 30px;
+    font-weight: bolder;
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.6), rgba(255, 255, 255, 0.6));
+}
+
+.opButton {
+    display: flex;
+    width: 200px;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    border: #000 3px solid;
+    border-radius: 10px;
+    font-size: 50px;
+    font-weight: bolder;
+    margin: 7px auto;
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(255, 255, 255, 0.5));
+}
+
+.button0 {
+    order: 10;
+    width: 250px;
+    height: 130px;
+    margin-top: 10px;
+}
+
+.comma {
+    order: 11;
+    width: 175px;
+    height: 130px;
+    margin-top: 10px;
+    margin-left: -15px;
+}
+
+.equals {
+    height: 120px;
+    width: 230px;
+    font-size: 75px;
+    margin-top: 7px;
+    margin-right: 20px;
+}
+
+.clear {
+    width: 90px;
+    height: 40px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    margin-top: -55px;
+    font-size: 30px;
+}
+
+.clearAll {
+    width: 100px;
+    height: 60px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: 50px;
+}
+
+.button1 {
+    order: 7;
+}
+
+.button2 {
+    order: 8;
+}
+
+.button3 {
+    order: 9;
+}
+
+.button4 {
+    order: 4;
+}
+
+.button5 {
+    order: 5;
+}
+
+.button6 {
+    order: 6;
+}
+
+.button7 {
+    order: 1;
+}
+
+.button8 {
+    order: 2;
+}
+
+.button9 {
+    order: 3;
+}
+
+.isActive {
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(255, 255, 255, 0.4));
+}
