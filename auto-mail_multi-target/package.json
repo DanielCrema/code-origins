@@ -1,0 +1,14 @@
+{
+  "name": "mailer",
+  "version": "1.0.0",
+  "description": "Application to send automatic e-mails",
+  "main": "index.js",
+  "scripts": {
+    "test": "testmail"
+  },
+  "author": "Daniel Crema",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.9.4"
+  }
+}
