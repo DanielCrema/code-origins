@@ -14,6 +14,9 @@ First time I have managed to develop a functional screen using CSS and HTML, fea
 
 [CSS 3](https://www.python.org) – Style sheet language
 
+## 📸 Screenshot
+![Project Screenshot](./screenshot.png)
+
 ## 🎓 Credits
 Developed by [**Daniel Crema**](https://github.com/DanielCrema) as a study case for educational purposes.
 
