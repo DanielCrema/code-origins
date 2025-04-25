@@ -16,16 +16,16 @@ One may rename them back to `.git` if they wish to see the commit histories.
 - Most of the original repositories on Github have been deleted or are private, for the sake of cleaning.
 
 ## Purpose 🧠
-- `Memorial:`  
+- `Memorial` :  
 
     - Most experienced programmers regret not having their first projects archive. I don't want to be one of them.
 
-- `Reference:`  
+- `Reference` :  
 
     - Recruiters don't have time to go through boring, old, unorganized and unuseful repositories.  
     I'm making it easy for them to find what they need.
 
-- `Inspiration:`  
+- `Inspiration` :  
 
     - I hope this initiative inspire starters to well-organize their studying projects with README.mds and commit properly.  
     Beginners often think their trashy projects doesn't worth it, and end up regretting the abscence of records of their history.
