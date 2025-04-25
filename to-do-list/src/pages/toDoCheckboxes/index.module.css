@@ -1,0 +1,37 @@
+.toDos {
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+  }
+  
+  .toDoCheckBox {
+    -webkit-appearanc: none;
+    -moz-appearance: none;
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    border: 2px solid #3d3d4d;
+    border-radius: 50%;
+    outline: none;
+    transition: all 0.3s;
+  }
+  
+  .toDoCheckBox:checked {
+    background-color: #273fad;
+    border: none;
+  }
+  
+  .toDoText {
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: #3d3d4d;
+  }
+  
+  .markedBox {
+    border-radius: 6px;
+    background-color: #193ddf1a;
+    color: #a09cb1;
+    text-decoration: line-through;
+  }
+  

@@ -1,0 +1,21 @@
+.toDoListMain {
+  margin-top: 80px;
+  width: 70vw;
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+}
+
+.title {
+  font-family: monospace, sans-serif;
+  font-size: 32px;
+  font-weight: 600;
+  color: #3d3d4d;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 5px;
+}
