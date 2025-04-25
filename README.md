@@ -1,8 +1,10 @@
 # My Beginner Memorial 🎓🚀
 **The first "Hello Worlds" through my career** 🎉
 
-This repository contains the first projects I made during my studies. It's a collection of my first steps in the world of programming.  
-As every beginner, I obviously didn't use to commit all my code for not considering it relevant and therefore lost a lot of them. Anyways, this is my memorial, and I hope to come back here in 10 years and cry tears of joy 🥲
+This repository contains the first projects I made during my studies.  
+It's a collection of my first steps in the world of programming.  
+
+As a beginner, I didn't use to commit all my code for not considering it relevant, therefore losing many of them. Anyways, this is my memorial, and I hope to come back here in 10 years and cry tears of joy 🥲
 
 - Each `subfolder` in this repository contains a project I have developed through my beginner journey.
 
