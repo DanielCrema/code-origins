@@ -1,5 +1,5 @@
 # To-do List 🎓🚀
-#### My first  in Next.js 🎉
+#### My first Pokédex 🎉
 
 Some say no one can get to know how to use APIs if this person hadn't made a Pokédex. It's a "Hello World" of APIs tradition, so I have done my homework 😂
 
