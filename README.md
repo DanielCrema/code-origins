@@ -1,5 +1,5 @@
 # My Beginner Memorial 🎓🚀
-#### The first "Hello Worlds" through my career 🎉
+**The first "Hello Worlds" through my career** 🎉
 
 This repository contains the first projects I made during my studies. It's a collection of my first steps in the world of programming.  
 As every beginner, I obviously didn't use to commit all my code for not considering it relevant and therefore lost a lot of them. Anyways, this is my memorial, and I hope to come back here in 10 years and cry tears of joy 🥲
@@ -30,14 +30,17 @@ One may rename them back to `.git` if they wish to see the commit histories.
 
 
 ## Dates 👨‍💻🗓️
-#### Commit timestamps from the original repositories:
-#### 🗝️ First commit ever
+Commit timestamps from the original repositories:
+
+
+🗝️ *First commit ever:*  
 - Apr 4, 2023
-#### 🔐 Last commit ever
+
+🔐 *Last commit ever*  
 - Dec 18, 2024
 
 ## 📁 Projects Guide
-#### Links to the projects : Last commit date
+Links to the projects : Last commit date
 
 <br/>
 
@@ -105,8 +108,8 @@ My first "Hello World" in Typescript and React Vite
 ## 🎓 Credits
 Developed by [**Daniel Crema**](https://github.com/DanielCrema) as a study case for educational purposes.
 
-***Special thanks*** to:
-#### 🕋🤲 **Almighty God** (ﷻ), for having given me intelligence and persistence to learn.
+*Special thanks* to:  
+🕋🤲 **Almighty God** (ﷻ), for having given me intelligence and persistence to learn.
 
 Then:
 
