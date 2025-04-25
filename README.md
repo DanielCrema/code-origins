@@ -37,7 +37,9 @@ One may rename them back to `.git` if they wish to see the commit histories.
 - Dec 18, 2024
 
 ## 📁 Projects Guide
-##### Links to the projects : Last commit date
+#### Links to the projects : Last commit date
+
+<br/>
 
 🔗 [Project E-Front](./project-e-front) : Jun 4, 2023  
 
