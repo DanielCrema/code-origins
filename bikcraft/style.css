@@ -1,0 +1,194 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    background: #f7f7f7;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+a {
+    text-decoration: none;
+}
+
+p,
+h1,
+h2 {
+    margin: 0px;
+}
+
+p {
+    font-size: 1.25rem;
+    line-height: 1.3;
+}
+
+ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+#containerMain {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#containerContent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 1000px;
+    width: 100%;
+}
+
+#header {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+#menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    max-width: 800px;
+    width: 100%;
+    text-align: center;
+}
+
+#menu a {
+    display: block;
+    min-width: 150px;
+    max-width: 150px;
+    background-color: #fff;
+    padding: 15px 30px;
+    border: 2px solid transparent;
+    border-radius: 4px;
+    color: #000000;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+#menu a:hover {
+    border: 2px solid red;
+    cursor: pointer;
+}
+
+.containerProduct {
+    margin-top: 60px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
+}
+
+.containerDescription {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    text-align: right;
+    gap: 20px;
+    padding: 40px;
+    background-color: #fff;
+    position: relative;
+}
+
+.containerDescription::after {
+    content: '';
+    width: 60px;
+    height: 4px;
+    background: #ee2211;
+    position: absolute;
+    top: 30px;
+    right: -30px;
+}
+
+.containerDescription h2 {
+    font-size: 2.25rem;
+}
+
+.containerDescription button {
+    padding: 15px 30px;
+    border: none;
+    border-radius: 4px;
+    text-transform: uppercase;
+    background-color: #ee2211;
+    transition: 0.3s;
+}
+
+.containerDescription button:hover {
+    background-color: #900;
+    cursor: pointer;
+}
+
+.containerDescription a {
+    font-size: 1rem;
+    color: #fff;
+}
+
+.containerAdvantages {
+    display: flex;
+    text-align: right;
+    align-items: center;
+    padding: 40px;
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    color: #c6c6c6;
+}
+
+#bikcraftAdvantages {
+    padding: 23px 0px;
+    background-image: url("./assets/onda.svg");
+}
+
+.containerInfo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 40px;
+    background-color: #fff;
+}
+
+.info {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 10px 20px;
+    padding: 20px;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+}
+
+.info:nth-child(odd) > .infoDescription {
+    background-color: #f7f7f7;
+    border-radius: 6px;
+}
+
+.info:hover {
+    border-left: 5px solid red;
+}
+
+.infoTitle {
+    font-weight: 600;
+}
+
+.infoDescription {
+    grid-column: 2;
+}
+
+.footer {
+    margin-top: 60px;
+    width: 100%;
+    padding: 40px 0px 30px 0px;
+    text-align: center;
+    background-color: #fff;
+}
