@@ -11,6 +11,5 @@ Order of the projects:
 8. maha-express-app: Mar 16, 2024
 9. poke-api-app: Apr 16, 2024
 10. bikcraft-origamid: Apr 20, 2024
-11. origamid-js-aulas: Sep 12, 2024
-12. origamid-js-dom-para-iniciantes: Oct 3, 2024
-13. Todo_List: Dec 18, 2024
+11. origamid-js-dom-para-iniciantes: Oct 3, 2024
+12. Todo_List: Dec 18, 2024
