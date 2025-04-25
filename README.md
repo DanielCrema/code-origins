@@ -1,29 +1,29 @@
 # My Beginner Memorial 🎓🚀
 #### The first "Hello Worlds" through my career 🎉
 
-    This repository contains the first projects I made during my studies. It's a collection of my first steps in the world of programming.  
-
-    As every beginner, I obviously didn't use to commit all my code for not considering it relevant and therefore lost a lot of them. Anyways, this is my memorial, and I hope to come back here in 10 years and cry tears of joy 🥲
+This repository contains the first projects I made during my studies. It's a collection of my first steps in the world of programming.  
+As every beginner, I obviously didn't use to commit all my code for not considering it relevant and therefore lost a lot of them. Anyways, this is my memorial, and I hope to come back here in 10 years and cry tears of joy 🥲
 
 - Each `subfolder` in this repository contains a project I have developed through my beginner journey.
 
-- Each `README.md` in each subfolder contains a brief description of the project.
+- Each `README.md` in the subfolders contains a brief description of the project.
 
-- The subfolders contain the original `.git` files renamed as `original-.git` to avoid conflicts. One may rename them back to `.git` if they wish to see the commit histories.
+- The subfolders contain the original `.git` files renamed as `original-.git` to avoid conflicts.  
+One may rename them back to `.git` if they wish to see the commit histories.
 
-- Most of the `original repositories` on Github have been deleted or are private, for the sake of cleaning.
+- Most of the original repositories on Github have been deleted or are private, for the sake of cleaning.
 
 ## Purpose 🧠
-- `Memorial`:  
+- `Memorial:`  
 
     - Most experienced programmers regret not having their first projects archive. I don't want to be one of them.
 
-- `Reference`:  
+- `Reference:`  
 
     - Recruiters don't have time to go through boring, old, unorganized and unuseful repositories.  
     I'm making it easy for them to find what they need.
 
-- `Inspiration`:  
+- `Inspiration:`  
 
     - I hope this initiative inspire starters to well-organize their studying projects with README.mds and commit properly.  
     Beginners often think their trashy projects doesn't worth it, and end up regretting the abscence of records of their history.
@@ -37,42 +37,54 @@
 - Dec 18, 2024
 
 ## 📁 Projects Guide
-#### 🔗 Links to the projects : Last commit date
+##### Links to the projects : Last commit date
 
-[**1.** Project E-Front](./project-e-front) : Jun 4, 2023  
+🔗 [**1.** Project E-Front](./project-e-front) : Jun 4, 2023  
+
 My first studies in HTML and CSS.
 
-[**2.** Auto-Mail Multi-Target](./auto-mail-multi-target/) : Aug 4, 2023  
+🔗 [**2.** Auto-Mail Multi-Target](./auto-mail-multi-target/) : Aug 4, 2023  
+
 My first studies in Javascript backend using Node.js.
 
-[**3.** Javascalc](./javascalc/) : Aug 25, 2023  
+🔗 [**3.** Javascalc](./javascalc/) : Aug 25, 2023  
+
 My "Hello World" integrating HTML, CSS and Javascript.
 
-[**4.** Rocketseat Discover Course](./rocketseat-discover-course/) : Aug 25, 2023  
+🔗 [**4.** Rocketseat Discover Course](./rocketseat-discover-course/) : Aug 25, 2023  
+
 My first programming formal project.
 
-[**5.** Portfolio Daniel](./portfolio-daniel/) : Sep 12, 2023  
+🔗 [**5.** Portfolio Daniel](./portfolio-daniel/) : Sep 12, 2023  
+
 The first time I said "oh, this is beautiful" for a frontend project of mine
 
-[**6.** Jogo da Velha (Tic Tac Toe)](./jogo-da-velha/) : Oct 4, 2023  
+🔗 [**6.** Jogo da Velha (Tic Tac Toe)](./jogo-da-velha/) : Oct 4, 2023  
+
 Very funny logic study case
 
-[**7.** To-do List with Next.js](./to-do-list-next-js/) : Oct 27, 2023 
+🔗 [**7.** To-do List with Next.js](./to-do-list-next-js/) : Oct 27, 2023  
+
 My first "Hello World" in Next.js
 
-[**8.** Maha-Express App](./maha-express-app/) : Mar 16, 2024  
+🔗 [**8.** Maha-Express App](./maha-express-app/) : Mar 16, 2024  
+
 My first professional code
 
-[**9.** Poke API App](./poke-api-app/) : Apr 16, 2024  
+🔗 [**9.** Poke API App](./poke-api-app/) : Apr 16, 2024  
+
 Pokédex study case
 
-[**10.** Bikcraft](./bikcraft/) : Apr 20, 2024  
+🔗 [**10.** Bikcraft](./bikcraft/) : Apr 20, 2024  
+
 Further studies in CSS
 
-[**11.** Bootcamp DOM for Beginners](./dom-bootcamp/) : Oct 3, 2024  
+🔗 [**11.** Bootcamp DOM for Beginners](./dom-bootcamp/) : Oct 3, 2024  
+
 Dom deeper studies
 
-[**12.** To-do List with React Vite](./Todo-List-React-Vite/) : Dec 18, 2024  
+🔗 [**12.** To-do List with React Vite](./Todo-List-React-Vite/) : Dec 18, 2024  
+
 My first "Hello World" in Typescript and React Vite
 
 ## 🛠️ Stack
