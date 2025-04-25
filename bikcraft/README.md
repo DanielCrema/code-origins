@@ -1,12 +1,15 @@
 # Bikcraft 🎓🚀
-### Further studies in CSS 📚
+Further studies in `CSS` 📚
 
-By that point I realized CSS is bigger than I may have thought. I've got back to studying pure CSS through one of the courses of [**Origamid**](https://www.origamid.com/).
+By that point I realized *CSS* is bigger than I may have thought. I've got back to studying pure CSS through one of the courses of [**Origamid**](https://www.origamid.com/).
 
 ## Dates 👨‍💻🗓️
-### 🗝️ First commit
+🗝️ *First commit*
+
 - Apr 16, 2024
-### 🔐 Last commit
+
+🔐 *Last commit*
+
 - Apr 20, 2024
 
 ## 🛠️ Stack
@@ -20,5 +23,9 @@ By that point I realized CSS is bigger than I may have thought. I've got back to
 ## 🎓 Credits
 Developed by [**Daniel Crema**](https://github.com/DanielCrema) as a study case for educational purposes.
 
-***Special thanks*** to:
-#### 🕋🤲 **Almighty God** (ﷻ), for having given me intelligence and persistence to learn.
+*Special thanks* to:  
+🕋🤲 **Almighty God** (ﷻ), for having given me intelligence and persistence to learn.
+
+Then:
+
+- [Origamid](https://www.origamid.com/) - For the studying material.

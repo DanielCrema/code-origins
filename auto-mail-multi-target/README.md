@@ -1,12 +1,15 @@
 # Auto-Mail Multi-Target 🎓🚀
-#### My first "Hello World" at Javascript backend using Node.js 🎉
+My first "*Hello World*" at Javascript backend using `Node.js` 🎉
 
-First time I have managed to develop a functional backend system, a simple API based mail sender using **Nodemailer** library. By that time I didn't know about readme.md, so the readme was .txt, which I'll leave in the bottom of this readme as a memorial.
+First time I have managed to develop a functional *backend* system, a simple *API* based mail sender using **Nodemailer** library. By that time I didn't know about readme.md, so the readme was .txt, which I'll leave in the bottom of this readme as a memorial.
 
 ## Dates 👨‍💻🗓️
-### 🗝️ First commit
+🗝️ *First commit*
+
 - Aug 4, 2023
-### 🔐 Last commit
+
+🔐 *Last commit*
+
 - Aug 4, 2023 (2 commits only)
 
 ## 🛠️ Stack
@@ -17,8 +20,8 @@ First time I have managed to develop a functional backend system, a simple API b
 ## 🎓 Credits
 Developed by [**Daniel Crema**](https://github.com/DanielCrema) as a study case for educational purposes.
 
-***Special thanks*** to:
-#### 🕋🤲 **Almighty God** (ﷻ), for having given me intelligence and persistence to learn.
+*Special thanks* to:  
+🕋🤲 **Almighty God** (ﷻ), for having given me intelligence and persistence to learn.
 
 Then:
 - [David Palis Neto](https://github.com/dpalisn), for his friendship and support during the development process.

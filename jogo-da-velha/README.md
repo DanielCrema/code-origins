@@ -1,12 +1,15 @@
 # Jogo da Velha (Tic Tac Toe) 🎓🚀
-#### Very funny logic study case
+Very funny *logic* study case
 
 In this project I have managed to develop a simple game of tic tac toe, with a simple and intuitive interface. It works finely and even features an **AI opponent**.
 
 ## Dates 👨‍💻🗓️
-### 🗝️ First commit
+🗝️ *First commit*
+
 - Sep 15, 2023
-### 🔐 Last commit
+
+🔐 *Last commit*
+
 - Oct 4, 2023
 
 ## 🛠️ Stack
@@ -22,8 +25,8 @@ In this project I have managed to develop a simple game of tic tac toe, with a s
 ## 🎓 Credits
 Developed by [**Daniel Crema**](https://github.com/DanielCrema) as a study case for educational purposes.
 
-***Special thanks*** to:
-#### 🕋🤲 **Almighty God** (ﷻ), for having given me intelligence and persistence to learn.
+***Special thanks*** to:  
+🕋🤲 **Almighty God** (ﷻ), for having given me intelligence and persistence to learn.
 
 Then:
-- [Cadu Olegario](https://github.com/CaduOlegario), for his support and guidance during the development process.
+- [Cadu Olegario](https://github.com/CaduOlegario) - for his support and guidance during the development process.

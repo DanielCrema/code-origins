@@ -1,7 +1,7 @@
 ## Discover Course: Rocketseat 🎓🚀
-My first programming formal project.
+My first programming *formal project*.
 
-🛠️ Features HTML, CSS, Javascript, Figma, Git and Github studies with **responsive design**.
+🛠️ Features `HTML`, `CSS`, `Javascript`, `Figma`, `Git` and `Github` studies with **responsive design**.
 
 ### 🌐 Access
 🔗 [Final project: Online](https://danielcrema.github.io/rocketseat-discover-course/)
@@ -17,10 +17,20 @@ My first programming formal project.
 ### Desktop
 ![Screenshot Desktop](./screenshot-desktop.png)
 
-<br/>
-<br/>
+## 🎓 Credits
+Developed by [**Daniel Crema**](https://github.com/DanielCrema) as a study case for educational purposes.
 
-### 📁 I leave the original README.md in portuguese below, as a memorial and to give the proper credits to Rocketseat.
+***Special thanks*** to:  
+🕋🤲 **Almighty God** (ﷻ), for having given me intelligence and persistence to learn.
+
+Then:
+- [Rocketseat](https://rocketseat.com.br/)
+- [Mayk Brito](https://github.com/maykbrito)
+<br/>
+<br/>
+-------
+<br/>
+📁 I leave the original README.md in portuguese below, as a memorial and to give the proper credits to Rocketseat.
 
 <br/>
 <h1 align="center"> DevLinks </h1>

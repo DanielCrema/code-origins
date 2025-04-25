@@ -1,5 +1,5 @@
 # My Beginner Memorial 🎓🚀
-**The first "Hello Worlds" through my career** 🎉
+**The first "*Hello Worlds*" through my career** 🎉
 
 This repository contains the first projects I made during my studies.  
 It's a collection of my first steps in the world of programming.  
@@ -48,51 +48,51 @@ Links to the projects : Last commit date
 
 🔗 [Project E-Front](./project-e-front) : Jun 4, 2023  
 
-My first studies in HTML and CSS.
+- My first studies in HTML and CSS.
 
 🔗 [Auto-Mail Multi-Target](./auto-mail-multi-target/) : Aug 4, 2023  
 
-My first studies in Javascript backend using Node.js.
+- My first studies in Javascript backend using Node.js.
 
 🔗 [Javascalc](./javascalc/) : Aug 25, 2023  
 
-My "Hello World" integrating HTML, CSS and Javascript.
+- My "Hello World" integrating HTML, CSS and Javascript.
 
 🔗 [Rocketseat Discover Course](./rocketseat-discover-course/) : Aug 25, 2023  
 
-My first programming formal project.
+- My first programming formal project.
 
 🔗 [Portfolio Daniel](./portfolio-daniel/) : Sep 12, 2023  
 
-The first time I said "oh, this is beautiful" for a frontend project of mine
+- The first time I said "oh, this is beautiful" for a frontend project of mine
 
 🔗 [Jogo da Velha (Tic Tac Toe)](./jogo-da-velha/) : Oct 4, 2023  
 
-Very funny logic study case
+- Very funny logic study case
 
 🔗 [To-do List with Next.js](./to-do-list-next-js/) : Oct 27, 2023  
 
-My first "Hello World" in Next.js
+- My first "Hello World" in Next.js
 
 🔗 [Maha-Express App](./maha-express-app/) : Mar 16, 2024  
 
-My first professional code
+- My first professional code
 
 🔗 [Poke API App](./poke-api-app/) : Apr 16, 2024  
 
-Pokédex study case
+- Pokédex study case
 
 🔗 [Bikcraft](./bikcraft/) : Apr 20, 2024  
 
-Further studies in CSS
+- Further studies in CSS
 
 🔗 [Bootcamp DOM for Beginners](./dom-bootcamp/) : Oct 3, 2024  
 
-Dom deeper studies
+- Dom deeper studies
 
 🔗 [To-do List with React Vite](./Todo-List-React-Vite/) : Dec 18, 2024  
 
-My first "Hello World" in Typescript and React Vite
+- My first "Hello World" in Typescript and React Vite
 
 ## 🛠️ Stack
 [HTML](https://html.spec.whatwg.org/multipage/) – Markup language
@@ -121,6 +121,6 @@ Then:
     - [Fred](https://github.com/03fred) - For his friendship and support.
 
 - Institutions:
-    - [iuricode (Iuri Silva)](https://github.com/iuricode) - For studying materials.
-    - [Rocketseat](https://www.rocketseat.com.br/) - For studying materials and courses.
+    - [Rocketseat](https://www.rocketseat.com.br/) and [Mayk Brito](https://github.com/maykbrito) - For studying materials and courses.
     - [Origamid](https://www.origamid.com/) - For studying materials and courses.
+    - [iuricode (Iuri Silva)](https://github.com/iuricode) - For studying materials.

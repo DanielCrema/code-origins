@@ -1,12 +1,14 @@
 # Project E-Front 🎓🚀
-#### My first "Hello World" at CSS integrated with HTML 🎉
+My first "*Hello World*" at CSS integrated with HTML 🎉
 
 First time I have managed to develop a functional screen using CSS and HTML, featuring a form to subscribe to a fictitious newsletter. By that time I didn't know anything about backend, so the form was just a static page.
 
 ## Dates 👨‍💻🗓️
-### 🗝️ First commit
+🗝️ *First commit*
+
 - Apr 4, 2023
-### 🔐 Last commit
+
+🔐 *Last commit*
 - May 25, 2023
 
 ## 🛠️ Stack
@@ -20,8 +22,8 @@ First time I have managed to develop a functional screen using CSS and HTML, fea
 ## 🎓 Credits
 Developed by [**Daniel Crema**](https://github.com/DanielCrema) as a study case for educational purposes.
 
-***Special thanks*** to:
-#### 🕋🤲 **Almighty God** (ﷻ), for having given me intelligence and persistence to learn.
+***Special thanks*** to:  
+🕋🤲 **Almighty God** (ﷻ), for having given me intelligence and persistence to learn.
 
 Then:
 - [iuricode (Iuri Silva)](https://github.com/iuricode), creator of the original pedagogical project.
