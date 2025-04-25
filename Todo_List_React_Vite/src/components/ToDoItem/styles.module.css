@@ -1,0 +1,23 @@
+.todoItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+}
+
+.todoItem span {
+  font-size: 18px;
+  color: #333;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: #aaa;
+}
+
+.buttons {
+  display: flex;
+  gap: 10px;
+}
