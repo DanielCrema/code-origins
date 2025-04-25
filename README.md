@@ -95,7 +95,7 @@ Links to the projects : Last commit date
 - My first "Hello World" in Typescript and React Vite
 
 ## 🛠️ Stack
-[HTML](https://html.spec.whatwg.org/multipage/) – Markup language
+[HTML 5](https://html.spec.whatwg.org/multipage/) – Markup language
 
 [CSS 3](https://www.python.org) – Style sheet language
 
@@ -103,9 +103,13 @@ Links to the projects : Last commit date
 
 [Typescript](https://www.typescriptlang.org/) – For types
 
+[Node.js](https://nodejs.org/en) – Javascript backend runtime environment.
+
 [Next.js](https://nextjs.org/) – Framework
 
 [React Vite](https://vite.dev/) – Framework
+
+[Figma](https://www.figma.com/) – Design tool
 
 ## 🎓 Credits
 Developed by [**Daniel Crema**](https://github.com/DanielCrema) as a study case for educational purposes.

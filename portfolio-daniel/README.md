@@ -18,6 +18,8 @@ In this study project I have managed to develop an almost-professional personal 
 
 [CSS 3](https://www.python.org) – Style sheet language
 
+[Figma](https://www.figma.com/) – Design tool
+
 ## 📷 Screenshot
 ![Project Screenshot](./screenshot.bmp)
 
