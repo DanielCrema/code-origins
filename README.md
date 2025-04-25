@@ -39,51 +39,51 @@ One may rename them back to `.git` if they wish to see the commit histories.
 ## 📁 Projects Guide
 ##### Links to the projects : Last commit date
 
-🔗 [**1.** Project E-Front](./project-e-front) : Jun 4, 2023  
+🔗 [Project E-Front](./project-e-front) : Jun 4, 2023  
 
 My first studies in HTML and CSS.
 
-🔗 [**2.** Auto-Mail Multi-Target](./auto-mail-multi-target/) : Aug 4, 2023  
+🔗 [Auto-Mail Multi-Target](./auto-mail-multi-target/) : Aug 4, 2023  
 
 My first studies in Javascript backend using Node.js.
 
-🔗 [**3.** Javascalc](./javascalc/) : Aug 25, 2023  
+🔗 [Javascalc](./javascalc/) : Aug 25, 2023  
 
 My "Hello World" integrating HTML, CSS and Javascript.
 
-🔗 [**4.** Rocketseat Discover Course](./rocketseat-discover-course/) : Aug 25, 2023  
+🔗 [Rocketseat Discover Course](./rocketseat-discover-course/) : Aug 25, 2023  
 
 My first programming formal project.
 
-🔗 [**5.** Portfolio Daniel](./portfolio-daniel/) : Sep 12, 2023  
+🔗 [Portfolio Daniel](./portfolio-daniel/) : Sep 12, 2023  
 
 The first time I said "oh, this is beautiful" for a frontend project of mine
 
-🔗 [**6.** Jogo da Velha (Tic Tac Toe)](./jogo-da-velha/) : Oct 4, 2023  
+🔗 [Jogo da Velha (Tic Tac Toe)](./jogo-da-velha/) : Oct 4, 2023  
 
 Very funny logic study case
 
-🔗 [**7.** To-do List with Next.js](./to-do-list-next-js/) : Oct 27, 2023  
+🔗 [To-do List with Next.js](./to-do-list-next-js/) : Oct 27, 2023  
 
 My first "Hello World" in Next.js
 
-🔗 [**8.** Maha-Express App](./maha-express-app/) : Mar 16, 2024  
+🔗 [Maha-Express App](./maha-express-app/) : Mar 16, 2024  
 
 My first professional code
 
-🔗 [**9.** Poke API App](./poke-api-app/) : Apr 16, 2024  
+🔗 [Poke API App](./poke-api-app/) : Apr 16, 2024  
 
 Pokédex study case
 
-🔗 [**10.** Bikcraft](./bikcraft/) : Apr 20, 2024  
+🔗 [Bikcraft](./bikcraft/) : Apr 20, 2024  
 
 Further studies in CSS
 
-🔗 [**11.** Bootcamp DOM for Beginners](./dom-bootcamp/) : Oct 3, 2024  
+🔗 [Bootcamp DOM for Beginners](./dom-bootcamp/) : Oct 3, 2024  
 
 Dom deeper studies
 
-🔗 [**12.** To-do List with React Vite](./Todo-List-React-Vite/) : Dec 18, 2024  
+🔗 [To-do List with React Vite](./Todo-List-React-Vite/) : Dec 18, 2024  
 
 My first "Hello World" in Typescript and React Vite
 
