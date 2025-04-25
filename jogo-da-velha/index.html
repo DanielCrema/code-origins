@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <title>Jogo da Velha</title>
+</head>
+<body>
+  <div class="container">
+    <h1 class="title">Jogo da Velha</h1>
+    <div class="containerGame">
+
+      <div class="containerTurns">
+        <p>Turn</p>
+        <p class="nowPlaying">Player 1</p>
+      </div>
+
+      <div class="containerWinner">
+        <div class="endGameStatement">
+          <p class="winner">Player 2</p>
+          <p class="winsStatement">Wins</p>
+        </div>
+        <button class="restart">
+          Restart
+        </button>
+      </div>
+
+      <div class="containerBoard">
+        <div class="squareItem" id="item-1"></div>
+        <div class="squareItem" id="item-2"></div>
+        <div class="squareItem" id="item-3"></div>
+        <div class="squareItem" id="item-4"></div>
+        <div class="squareItem" id="item-5"></div>
+        <div class="squareItem" id="item-6"></div>
+        <div class="squareItem" id="item-7"></div>
+        <div class="squareItem" id="item-8"></div>
+        <div class="squareItem" id="item-9"></div>
+      </div>
+
+      <div class="containerResults">
+        <p>Player 1: <div id="p1Score"></div></p>
+        <p>Player 2: <div id="p2Score"></div></p>
+        <p>Empates: <div id="drawScore"></div></p>
+      </div>
+      
+    </div>
+
+    <div class="containerToggleMachine">
+      <p>Machine Player 2</p>
+      <button class="toggleMachine">
+        OFF
+      </button>
+    </div>
+
+  </div>
+
+  <script src="/script.js"></script>
+</body>
+</html>
