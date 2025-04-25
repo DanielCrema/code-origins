@@ -1,0 +1,16 @@
+.typography {
+  color: #FFFF;
+  text-align: center;
+}
+
+.typographySm {
+  font-size: 0.9rem;
+}
+
+.typographyMd {
+  font-size: 1rem;
+}
+
+.typographyLg {
+  font-size: 1.25rem;
+}

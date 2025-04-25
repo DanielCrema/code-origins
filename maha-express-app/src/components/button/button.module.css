@@ -1,0 +1,33 @@
+.button {
+  width: 400px;
+  padding: 15px;
+  background-color: #dd3131;
+  border: 1px solid #dd3131;
+  border-radius: 5px;
+  color: white;
+  text-align: center;
+  transition: all 0.3s ease-in-out;
+  font-size: 1.1rem;
+  cursor: pointer;
+  position: relative;
+}
+
+.button:hover {
+  background-color: rgba(221, 49, 49, 0.8);
+}
+
+.icon {
+  position: absolute;
+  left: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 24px;
+  height: 24px;
+}
+
+@media (max-width: 768px) {
+  .button {
+    width: 300px;
+    padding: 10px;
+  }
+}
