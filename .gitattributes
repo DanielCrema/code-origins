@@ -1,0 +1,2 @@
+# Set .git folders untracked by linguist (https://github.com/github/linguist)
+original-.git/** linguist-vendored
