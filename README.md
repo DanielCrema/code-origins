@@ -111,6 +111,9 @@ Links to the projects : Last commit date
 
 [Figma](https://www.figma.com/) – Design tool
 
+## 📝 License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ## 🎓 Credits
 Developed by [**Daniel Crema**](https://github.com/DanielCrema) as a study case for educational purposes.
 
